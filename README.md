@@ -3,20 +3,20 @@ Some TP from my Mondes 3D class in M1 computer sciences at the University of Bor
 
 TP1: Recursive Ray Tracing
 
-TP2: Maillage Triangulaire
+TP2: Triangular Mesh
 
-TP3: Pipeline Programmable
+TP3: OpenGL Intro
 
-TP4: Passage à la 3D
+TP4: 3D transformation using OpenGL and Eigen
 
-TP5: Éclairage et normales
+TP5: Blinn-Phong model GLSL
 
 TP6: Textures
 
 TP7: Normal Mapping
 
-TP8: Courbes et Surfaces Paramétriques
+TP8: Bezier Curves and Parametric Surfaces
 
-TP9: Surfaces de subdivisions
+TP9: Subdivision Surfaces
 
-TP10: Cinematique inverse & skinning
+TP10: Inverse Kinematic & Skinning
